@@ -1,0 +1,23 @@
+{
+  "name": "section-8---nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy7129/andi-nodejs.git"
+  },
+  "author": "Andi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andy7129/andi-nodejs/issues"
+  },
+  "homepage": "https://github.com/Andy7129/andi-nodejs#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
